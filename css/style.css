@@ -122,7 +122,10 @@ body {
 li.home
 {
 
-list-style-image:url('../img/sqpurple.gif');
+background: url('../img/sqpurple.gif');
+background-repeat: no-repeat;
+background-position: 5px 4px;
+padding-left: 19px;
 
 } 
 
